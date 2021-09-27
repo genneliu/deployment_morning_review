@@ -1,0 +1,8 @@
+1. What is deployment?
+
+
+2. Where is deployment in Software Dev Lifecycle?
+
+
+3. What are some popular hosting companies / services? How do they differ?
+
