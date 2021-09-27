@@ -1,8 +1,15 @@
 1. What is deployment?
-
+Delivery of content from the developer to the user, or setting up your live environment 
 
 2. Where is deployment in Software Dev Lifecycle?
+Steps: Local => Deployment => Staging => Live
 
 
 3. What are some popular hosting companies / services? How do they differ?
 
+1. Heroku - take advantage of custom pipeline
+2. Netlify - better for statis sites
+3. Github Pages - good for static website
+4. AWS - provides numerous hosting options and highly customizable experience
+5. Azure - pay as you go pricing model, top tier scalability
+6. Digital Ocean - extensive documentation
